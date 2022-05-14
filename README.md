@@ -1,4 +1,4 @@
-# Hi, I'm Tomas!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey There,  I'm Tomas!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
     
 <p align="left">
