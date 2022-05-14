@@ -26,7 +26,7 @@
 <a href="https://www.hackerrank.com/tomasgodin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tomasgodin" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools: <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="50"></h3>
+<h3 align="left">Languages and Tools <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="70">:</h3>
 <p align="center"> 
  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="git" /> </a>
  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="git" /> </a>
