@@ -35,3 +35,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomasrgodoy-git&" alt="tomasrgodoy-git" /></p>
 
+<p><img align="center" src="https://i.giphy.com/media/YnkMcHgNIMW4Yfmjxr/200.webp" /></p>
+
