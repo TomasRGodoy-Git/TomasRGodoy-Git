@@ -41,7 +41,6 @@
  
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasrgodoy-git&show_icons=true&locale=en&layout=compact" alt="tomasrgodoy-git" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomasrgodoy-git&show_icons=true&locale=en" alt="tomasrgodoy-git" /></p>
 
