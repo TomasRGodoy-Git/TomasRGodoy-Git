@@ -23,7 +23,7 @@
 <a href="https://kaggle.com/tomasgodoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tomasgodoy" height="30" width="40" /></a>
 <a href="https://instagram.com/_tomasgodoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tomasgodoy" height="30" width="40" /></a>
 <a href="https://medium.com/@tomasgodin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tomasgodin" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tomasgodin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tomasgodin" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tomasrgodoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tomasrgodoy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="70">:</h3>
